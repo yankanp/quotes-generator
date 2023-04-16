@@ -1,0 +1,46 @@
+wandb_version: 1
+
+learning_rate:
+  desc: null
+  value: 2.0e-05
+architecture:
+  desc: null
+  value: GPT-2
+dataset:
+  desc: null
+  value: Quotes Dataset
+epochs:
+  desc: null
+  value: 10
+_wandb:
+  desc: null
+  value:
+    python_version: 3.7.16
+    cli_version: 0.14.2
+    framework: huggingface
+    huggingface_version: 4.28.1
+    is_jupyter_run: true
+    is_kaggle_kernel: false
+    start_time: 1681666855.046642
+    t:
+      1:
+      - 1
+      - 11
+      - 49
+      - 55
+      2:
+      - 1
+      - 11
+      - 49
+      - 55
+      3:
+      - 2
+      - 16
+      - 23
+      4: 3.7.16
+      5: 0.14.2
+      6: 4.28.1
+      8:
+      - 1
+      - 3
+      - 5

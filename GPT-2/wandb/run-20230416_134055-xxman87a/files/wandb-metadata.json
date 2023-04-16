@@ -1,0 +1,49 @@
+{
+    "os": "Windows-10-10.0.19041-SP0",
+    "python": "3.7.16",
+    "heartbeatAt": "2023-04-16T17:40:55.571337",
+    "startedAt": "2023-04-16T17:40:55.032644",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/yankanp/quotes-generator.git",
+        "commit": "c38ed2b528817395ce237ed2143b70ff727034d7"
+    },
+    "email": "priyankankiru@gmail.com",
+    "root": "C:/CS/CSC561/Git_Src/quotes-generator",
+    "host": "MSI",
+    "username": "priya",
+    "executable": "c:\\Users\\priya\\anaconda3\\envs\\my_env_2\\python.exe",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 2496.0,
+        "min": 0.0,
+        "max": 2496.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2496.0,
+            "min": 0.0,
+            "max": 2496.0
+        }
+    ],
+    "disk": {
+        "total": 1883.6083946228027,
+        "used": 258.8639602661133
+    },
+    "gpu": "NVIDIA GeForce RTX 3080 Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3080 Laptop GPU",
+            "memory_total": 17179869184
+        }
+    ],
+    "memory": {
+        "total": 31.70848846435547
+    }
+}
