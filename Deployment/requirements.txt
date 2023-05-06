@@ -1,0 +1,7 @@
+flask
+numpy
+pandas
+torch
+transformers
+scikit-learn
+flask-cors
