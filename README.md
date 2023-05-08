@@ -8,19 +8,19 @@ This project demonstrates how pre-trained transfer models can be fine-tuned on a
 
 ## TODOS
 - [x] Collect dataset
-- [ ] Find a tutorial on a similar project
-- [ ] Do some literature review
-- [ ] Understand dataset
-- [ ] Preprocess data
-- [ ] Develop a basic model with GPT2. (By Thursday)
-- [ ] Hyperparameter Search (By Friday)
-- [ ] Weights and Biases integration
-- [ ] With the best param, train GPT2
-- [ ] With the best param, train T5 (By Sunday)
-- [ ] Prepare the results
-- [ ] Writing report
+- [x] Find a tutorial on a similar project
+- [x] Do some literature review
+- [x] Understand dataset
+- [x] Preprocess data
+- [x] Develop a basic model with GPT2. (By Thursday)
+- [x] Hyperparameter Search (By Friday)
+- [x] Weights and Biases integration
+- [x] With the best param, train GPT2
+- [x] With the best param, train T5 (By Sunday)
+- [x] Prepare the results
+- [x] Writing report
 - [ ] Making presentation (Youtube video) (By Tuesday)
-- [ ] Deploy on web and mobile app
+- [x] Deploy on web and mobile app
 
 
 
@@ -31,6 +31,7 @@ This project demonstrates how pre-trained transfer models can be fine-tuned on a
 
 ## Credits
 
+Dataset: https://www.kaggle.com/datasets/sanjeetsinghnaik/quotes-from-goodread
 Dataset: https://github.com/ShivaliGoel/Quotes-500K
 
 ## License
